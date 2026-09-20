@@ -1,0 +1,15 @@
+{
+  "name": "@alphapark/genpark-dify-agentic-workflow-orchestrator-skill",
+  "version": "1.0.0",
+  "description": "GenPark AI Agent Skill - Dify.AI visual workflow execution, RAG pipeline querying, multi-model tool routing, and agentic canvas automation.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "Apache-2.0",
+  "keywords": [
+    "genpark",
+    "dify",
+    "agentic-workflow",
+    "multi-agent",
+    "mcp"
+  ]
+}
